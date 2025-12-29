@@ -44,7 +44,7 @@ Publish the website in the LocalHost.
       margin: 0;
       justify-content: center;
       align-items: center;
-      height: 100vh; /* full screen height */
+      height: 100vh; 
     }
     .BookCover {
       display: flex;
@@ -52,7 +52,7 @@ Publish the website in the LocalHost.
       align-items: center;
       justify-content: center;
       background: url("https://img.freepik.com/premium-photo/anime-scene-castle-with-giant-spiral-staircase-leading-it-generative-ai_955884-20238.jpg?w=2000") no-repeat center center;
-      background-size: cover; /* makes image fit nicely */
+      background-size: cover; 
       color: cyan;
       height: 600px;
       width: 400px;
